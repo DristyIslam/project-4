@@ -1,0 +1,49 @@
+.header{
+          
+          height: 150px;
+          background-color: purple;
+}
+.wrapper{
+          overflow: hidden;
+}
+.contact{
+         
+          height: 150px;
+          background-color: magenta;
+          width: 50%;
+          float: left;
+
+}
+.blog{
+          
+          height: 150px;
+          background-color: violet;
+          width: 50%;
+          float: right;
+
+}
+.container{
+          overflow: hidden;
+}
+.box{
+          height: 150px;
+          width: 33.33%;
+          float: left;
+}
+.pink{
+          background-color: yellow;
+
+}
+.yellow{
+          background-color: lime;
+
+}
+.teal{
+          background-color: olive;
+
+}
+
+.footer{
+          height: 150px;
+          background-color: salmon;
+}
